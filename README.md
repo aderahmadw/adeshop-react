@@ -10,3 +10,7 @@
     2. add its images
     3. render it
     4. style it
+6. Add Routing
+    1. install package react router dom
+    2. create route for home screen
+    3. create route for product screen
