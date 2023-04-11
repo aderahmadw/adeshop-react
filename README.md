@@ -18,7 +18,7 @@
     1. run npm init in root folder
     2. Update package json set type: module to use import instead of require
     3. add .js to imports
-    4. npm install exoress
+    4. npm install express
     5. create server.js
     6. add start command as node backend/server.js
     7. require express
